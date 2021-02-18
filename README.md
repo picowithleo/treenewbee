@@ -8,3 +8,7 @@ a platform for users to share and watch videos made by other users online. Estab
 inside and outside the website and various interactions between users and the website will not only help
 improve the user experience but also expand the user's social circle.
 http://treenewbee.cf/project/
+
+Work Flow:
+
+![Work Flow](https://i.imgur.com/vMPvLYD.png)
